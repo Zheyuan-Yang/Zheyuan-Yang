@@ -1,16 +1,13 @@
-## Hi there 👋
+Zheyuan (Andrew) Yang
 
-<!--
-**Zheyuan-Yang/Zheyuan-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+杨哲远
 
-Here are some ideas to get you started:
+Undergraduate: University of Toronto - Computer Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduate: University of California, Los Angeles - Master of Engineering
+
+email: andrewyangyangzheyuan@outlook.com
+
+github: https://github.com/Zheyuan-Yang
+
+linkedin: https://www.linkedin.com/in/zheyuan-yang-419064225/
